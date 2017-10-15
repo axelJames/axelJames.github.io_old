@@ -4,10 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+## About me
+
+
+
 ## Education  
 
-| Indian Institute of Technology, Palakkad | 2015-present | 8.8 |
-| Kuriakose Elias English Medium School, Mannanam | 2013-2015 | 96.7 |
+| Indian Institute of Technology, Palakkad &nbsp;&nbsp;  | 2015-present &nbsp;&nbsp;| 8.8  |
+| Kuriakose Elias English Medium School, Mannanam&nbsp;&nbsp; | 2013-2015 &nbsp;&nbsp;   | 96.7 |
+
 ## Computer Skills
 - R
 - C++
@@ -15,3 +20,6 @@ layout: home
 - Java
 - Haskell
 - Standard ML
+
+## Resume
+[get the PDF](/resources/Resume.pdf){:target="_blank"}
