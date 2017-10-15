@@ -4,5 +4,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-| Indian Institute of Technology, Palakkad &nbsp;&nbsp; | 2015-present &nbsp; &nbsp;| 	8.8  |
-| Kuriakose Elias English Medium School, Mannanam &nbsp;&nbsp;| 2013-2015 &nbsp;&nbsp; | 	96.7 |
+## Education  
+
+| Indian Institute of Technology, Palakkad | 2015-present | 8.8 |
+| Kuriakose Elias English Medium School, Mannanam | 2013-2015 | 96.7 |
+## Computer Skills
+- R
+- C++
+- Python
+- Java
+- Haskell
+- Standard ML
