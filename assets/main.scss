@@ -15,3 +15,16 @@
   background-color:#333; }
 .site-title, .site-title:visited {
     color: #888; }
+
+table {
+  border-collapse: collapse;
+}
+tr { 
+  border: solid;
+  border-width: 1px 0;
+  border-color: #ddd;
+}
+td{
+  padding: 1em;
+}
+
