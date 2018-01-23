@@ -16,7 +16,7 @@ title: Courses
 |I| 0 (Incomplete / withheld, to be resolved)|
 |P| 0 (Completed successfully and credits not included for GPA / CGPA calculations.
 |X| Completed successfully|
-|Y| Incomplete.|
+|Y| Incomplete.|  
 
 
 | Course Code | Course Title          | Credit | Grade |
