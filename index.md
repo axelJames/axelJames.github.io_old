@@ -12,18 +12,22 @@ Another topic that never fails to catch my attention is the economics of develop
 
 ## Education  
 
-| Indian Institute of Technology, Palakkad &nbsp;&nbsp;  | 2015-present &nbsp;&nbsp;| 8.8  |
+| Indian Institute of Technology, Palakkad &nbsp;&nbsp;  | 2015-present &nbsp;&nbsp;| 8.92  |
 | Kuriakose Elias English Medium School, Mannanam&nbsp;&nbsp; | 2013-2015 &nbsp;&nbsp;   | 96.7 |
   
   
 
 ## Skills
 - R
+- C
 - C++
 - Python
 - Java
 - Haskell
 - Standard ML
+- PHP
+- HTML
+- CSS
 
 ## Resume
 [Download resume](/resources/Resume.pdf){:target="_blank"}

@@ -3,9 +3,31 @@ layout: page
 title: Courses
 ---
 
+| Grade | Grade Points|
+|-------|-------------|
+|S| 10|
+|A| 9 |
+|B| 8 |
+|C| 7 |
+|D| 6 |
+|E| 4 |
+|U| 0 |
+|W| 0 (Mandatory repeat of the course due to insufficient attendance)|
+|I| 0 (Incomplete / withheld, to be resolved)|
+|P| 0 (Completed successfully and credits not included for GPA / CGPA calculations.
+|X| Completed successfully|
+|Y| Incomplete.|
+
 
 | Course Code | Course Title          | Credit | Grade |
 | ----------  |:---------------------:| ------:|-------|
+| CS3100| Paradigms of Programming                  | 4 |A |
+| CS3300| Language Translators                      | 3 |A |
+| CS3310| Language Translators Laboratory           | 2 |S |
+| CS3500| Operating Systems                         | 3 |S |
+| CS3510| Operating Systems Laboratory              | 2 |S |
+| CS4803| Model Checking                            | 4 |A |
+| CS4801| Principles of Machine Learning            | 4 |A |
 | CS2220| Languages, Machines and Computation       | 4 |A |
 | CS2600| Computer Organization and Architecture    | 3 |A |
 | CS2610| Computer Organization and Architecture Lab| 2 |S |
